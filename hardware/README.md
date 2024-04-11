@@ -16,6 +16,7 @@ Some exact specs are included but all components should be interchangeable with 
 - 16v 100μF capacitor x4
 - 10kΩ resistance x4
 - diodes x4
+- DC-DC step up converter
 - detachable connectors (optional)
 
 - 8520 DC 3.7v Coreless motors and compatible props x4
